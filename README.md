@@ -2,6 +2,7 @@
 Sample Project
 
 ## Description
+
 # LICENSE
 ```
 MIT License
